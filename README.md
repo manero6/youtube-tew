@@ -2,7 +2,7 @@
 
 ![gif](youtube-tew.gif)
 
-***youtube To ElseWhere*** · a simple script to avoid hundreds mouse clicks.  
+***youtube To ElseWhere*** · a simple script to avoid hundreds clicks.  
 With a single command download a video from youtube, save its thumbnail and print its title and description on your terminal.
 
 #### Dependencies:
