@@ -2,7 +2,8 @@
 
 ![gif](youtube-tew.gif)
 
-***youtube To ElseWhere*** · a simple script to download a video from youtube, save its thumbnail and print its title and description on your terminal.
+***youtube To ElseWhere*** · a simple script to avoid hundreds mouse clicks.  
+With a single command download a video from youtube, save its thumbnail and print its title and description on your terminal.
 
 #### Dependencies:
 Be sure to install [**youtube-dl**](https://github.com/rg3/youtube-dl/) as this script heavily depends on it.  
