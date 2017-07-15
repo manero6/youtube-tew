@@ -1,0 +1,4 @@
+youtube-dl $1 --write-thumbnail -o $(youtube-dl $1 --get-title|tr ' ' '_') &&
+clear;
+youtube-dl $1 --get-title;
+youtube-dl $1 --get-description
