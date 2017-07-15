@@ -1,5 +1,7 @@
 # youtube-tew
 
+![](https://manerosss.files.wordpress.com/2017/07/youtube-tew.gif)
+
 ***youtube To ElseWhere*** · a simple script to download a video from youtube, save its thumbnail and print its title and description on your terminal.
 
 #### Dependencies:
