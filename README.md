@@ -2,8 +2,8 @@
 
 ***youtube To ElseWhere*** · a simple script to download a video from youtube, save its thumbnail and print its title and description on your terminal.
 
-#### Dependencies:
-Be sure to install [**youtube-dl**](https://github.com/rg3/youtube-dl/) as this script heavily depends on it.  
+>#### Dependencies:
+>Be sure to install [**youtube-dl**](https://github.com/rg3/youtube-dl/) as this script heavily depends on it.  
 You should find it quite easily on any Distro, for Arch Linux users:  
 `sudo pacman -S youtube-dl`
 
