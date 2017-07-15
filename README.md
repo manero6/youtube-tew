@@ -2,30 +2,29 @@
 
 youtube To ElseWhere · a simple script to download a video from youtube, save its thumbnail and print its title and description on your terminal.
 
-I wrote it to easily move videos from my YouTube channel to BitChute.
+#### Dependencies:
+Be sure to install [**youtube-dl**](https://github.com/rg3/youtube-dl/) because this script heavily depends on it.  
+You should find it quite easily on any Distro, for Arch Linux users:  
+`sudo pacman -S youtube-dl`
 
-Here are 2 versions, the standard which is spiced up with colors by using **tcat**.  
-A simplier version that does what you need without any thrills.
+I wrote it to easily move videos from my YouTube channel to BitChute, anyway youtube-dl supports many other websites therefore it should be able to get videos and info from many other youtube-like websites.
 
-To get the script:
+Here are 2 versions, the ***standard*** which is spiced up with colors by using **tcat**.  
+A ***simple*** version that does what you need without any thrills.
 
-wget 
+#### To get the script:
 
-To use it:
+`wget https://raw.githubusercontent.com/manero666/youtube-tew/master/youtube-tew`  
+or  
+`wget https://raw.githubusercontent.com/manero666/youtube-tew/master/youtube-tew-simple`
 
-`. youtube-tew URL`
+#### To use it:
 
-or make it executable and then:
-
+`. youtube-tew URL`  
+or make it executable and then:  
 `./youtube-tew URL`
 
 By default video and thumbnail are saved named with the video title (spaces between words are replaced by _ ) in your *~/Videos/* directory.
-
-#### Dependencies:
-Be sure to install [**youtube-dl**](https://github.com/rg3/youtube-dl/) because this script heavily depends on it.  
-You should find it quite easily on any Distro, for Arch Linux users:
-
-`sudo pacman -S youtube-dl`
 
 
 ---
