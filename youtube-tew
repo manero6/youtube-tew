@@ -1,4 +1,4 @@
-PUTHERE=~/Videos/youtube/
+PUTHERE=~/Videos/
 BOLD="tput bold"
 ULINE="tput smul"
 Rfg="tput setaf 1"
