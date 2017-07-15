@@ -25,7 +25,7 @@ or
 or make it executable and then:  
 `./youtube-tew URL`
 
-By default video and thumbnail are saved in your ~/Video/ directory and named with the video title (spaces between words are replaced by _ ) in your *~/Videos/* directory.
+By default video and thumbnail are saved in your ~/Video/ directory and named with the video title (spaces between words are replaced by _ ).
 
 
 ---
