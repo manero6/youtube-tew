@@ -6,7 +6,7 @@ Gfg="tput setaf 2"
 Bbg="tput setab 0"
 RESET="tput sgr0"
 
-youtube-dl $1 --write-thumbnail -o $PUTHERE$(youtube-dl $1 --get-title|tr ' ' '_') &&
+youtube-dl $1 --write-thumbnail -o $PUTHERE"$(youtube-dl $1 --get-title|tr ' ' '_')" &&
 clear;
 $BOLD; $ULINE; $Rfg; $Bbg; echo -e "|Title:\n"; $RESET;
 youtube-dl $1 --get-title; echo;
