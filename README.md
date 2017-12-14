@@ -13,7 +13,7 @@ You should find it quite easily on any Distro, for Arch Linux users:
 I wrote it to easily move videos from my YouTube channel to BitChute, anyway youtube-dl supports many other websites therefore it should be able to get videos and info from many other youtube-like websites.
 
 Here are 2 versions:
-* the ***standard*** one which is spiced up with colors by using **tcat**.  
+* the ***standard*** one which is spiced up with colors by using **tput**.  
 * a ***simple*** version that does what you need without any thrills.
 
 #### To get the script:
