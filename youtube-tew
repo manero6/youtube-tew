@@ -1,3 +1,5 @@
+#!/bin/bash
+
 PUTHERE=~/Videos/
 BOLD="tput bold"
 ULINE="tput smul"
